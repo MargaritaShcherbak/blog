@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://2.shkolkovo.online/
+    date_end: '2022-06-11'
+    date_start: '2021-09-21'
+    description: 'Educational portal for preparing for the Unified State Exam, Unified State Exam and Olympiads!'
+    organization: Shkolkovo
+    organization_url: https://2.shkolkovo.online/
+    title: Preparation for the Unified State Exam
+    url: 'https://2.shkolkovo.online/purchase'
+  - certificate_url: https://yandex.ru/yaintern/
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    date_start: '2022-02-01'
+    description: A novice specialist who is interested in an internship in the direction of technical manager
+    organization: Yandex
+    organization_url: https://yandex.ru/yaintern/
+    title: Internship at Yandex
+    url: https://yandex.ru/yaintern/tech-manager
+  - certificate_url: https://www.bgoperator.ru/
+    date_end: '2022-05-10'
+    date_start: '2022-05-05'
+    description: 'Holidays all over the world!'
+    organization: BiblioGlobus
+    organization_url: https://www.bgoperator.ru/
+    title: 'Tourist operator'
     url: ''
 
 design:

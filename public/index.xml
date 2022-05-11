@@ -33,6 +33,88 @@
     </item>
     
     <item>
+      <title>Last week two</title>
+      <link>https://example.com/post/last_week2/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last_week2/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Last week, a serious holiday was celebrated - May 9. I accompanied the immortal regiment as a volunteer. This day was very busy and responsible. The weather changed a lot during the day, then rain, then hail, then the sun with clouds. However, this did not prevent the festive mood. That week I also did lab work on operating systems. It wasn&amp;rsquo;t easy. The week as a whole was busy, but productive. I&amp;rsquo;ve handled everything. On the evening of May 9, I went to the fireworks on Poklonnaya Gora. It was great there. There were a lot of people. However, it didn&amp;rsquo;t hurt. The fireworks were long, bright and impressive. I also met new people that evening. They were very joyful and persistent. After the fireworks, I went home on foot to enjoy Moscow at night. Moscow is beautiful! I enjoyed life.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Markdown is a lightweight markup language designed to indicate formatting in plain text while maintaining human readability as much as possible, and suitable for machine translation into advanced publishing languages. Originally created in 2004 by John Gruber and Aaron Schwartz. Many language ideas have been borrowed from existing text markup conventions in emails.
+Markdown language implementations convert Markdown text into valid, correctly constructed XHTML and replace left angle brackets (&amp;quot;&amp;lt;&amp;quot;) and ampersands (&amp;quot;&amp;amp;&amp;quot;) with the corresponding object codes. The first implementation of Markdown was a Perl implementation written by Gruber, but after a while many implementations from third-party developers appeared (see below). The Perl implementation is distributed under a BSD type license. Markdown implementations in various programming languages are included (or available as a plugin) in many content management systems.
+You can use any text editor to write Markdown, but we recommend Visual Studio Code with the Docs Authoring Pack extension. The Doc Authoring Pack extension contains editing tools and preview functions that allow you to see how the articles on the Documentation site will look like.
+Alerts are a special Markdown extension that is used to create citation blocks displayed on the documentation site using colors and icons indicating the importance of the content.&lt;/p&gt;
+&lt;p&gt;Avoid using the &amp;ldquo;Note&amp;rdquo;, &amp;ldquo;Advice&amp;rdquo;, &amp;ldquo;Important!&amp;rdquo;. Readers often miss them. It is recommended to place their information directly in the text of the article.&lt;/p&gt;
+&lt;p&gt;If you need to use alerts, limit yourself to one or two per article. Several notes should never be in an article next to each other.
+If angle brackets are used in the text of the file (for example, to indicate a placeholder), they need to be encoded manually. Otherwise, Markdown markup considers them HTML tags.&lt;/p&gt;
+&lt;p&gt;Angle brackets do not have to be escaped in text formatted as embedded code or in code blocks.
+Although Markdown supports embedded HTML code, HTML is not recommended for publishing Documentation on the site. Any code, except for a limited list of values, will cause errors and warnings to appear during assembly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git Version Control</title>
+      <link>https://example.com/post/versioning/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/versioning/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Version control systems (Version Control System, VCS) are used when working with several
+people under a project.The
+usual main tree of the project is stored in a local or remote repository to which access is configured for project participants.When
+making changes to the content of the project, the version control system allows
+you to fix them, combine changes made by different project participants,
+roll back to any earlier version of the project, if required.
+In classical version control systems, a centralized model is used,
+assuming a single repository for storing files.
+Most version control functions are performed by a special server.
+The project participant (user)
+receives the version of files he needs before starting work through certain commands.After making changes, the user
+places the new version in the repository. At the same time, previous versions are not deleted
+from the central repository and you can return to them at any time.The server can
+save the full version of the changed files, and produce the so-called data-
+compression—save only changes between successive versions, which
+reduces the amount of data stored.
+Version control systems support the ability to track and resolve
+conflicts that may arise when several people work on a single
+file.You can merge (merge) the changes made by different participants (
+automatically or manually), manually select the desired version, cancel the changes altogether
+or lock the files for modification. Depending on the settings, the lock does not
+allow other users to get a working copy or prevents the change
+a working copy of the file by means of the OS file system, thus
+providing privileged access to only one user working with the file.
+Version control systems can also provide additional, more flexible
+functionality.For example, they can support working with multiple
+versions of a single file, keeping a general history of changes up to the point of branching
+versions and their own change histories of each branch.Moreover,
+information is usually available about which of the participants, when and what changes were made.The usual
+this kind of information is stored in the change log, access to which can be restricted.
+Unlike the classical ones, in distributed version control systems, a central
+repository is not mandatory.
+Among the classic Venture capitalists, the most famous are CV, Subversion, and among the distributed
+ones - Git, Bazaar, Mercurial. The principles of their work are similar, they differ mainly
+in the syntax of the commands used in the work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week</title>
+      <link>https://example.com/post/last_week/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last_week/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Last week I did lab work on operating systems and information technology. It was not easy, but I completed everything on time. It&amp;rsquo;s quite interesting and informative. My whole week was busy studying. This week I created a template for a personal website! It&amp;rsquo;s very cool actually. I was engaged in physical culture and taught English. I also went to volunteer training on May 9th.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://example.com/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>

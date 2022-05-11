@@ -10,19 +10,27 @@
   <url>
     <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-05-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/tag/academic/</loc><lastmod>2022-05-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/categories/</loc><lastmod>2022-05-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/category/demo/</loc><lastmod>2022-05-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/post/last_week2/</loc><lastmod>2022-05-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-05-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/post/markdown/</loc><lastmod>2022-05-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/</loc><lastmod>2022-05-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/</loc><lastmod>2022-05-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/versioning/</loc><lastmod>2022-05-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/last_week/</loc><lastmod>2022-05-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
