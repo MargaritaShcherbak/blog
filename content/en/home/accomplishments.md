@@ -43,8 +43,8 @@ item:
     date_end: '2022-05-10'
     date_start: '2022-05-05'
     description: 'Holidays all over the world!'
-    organization: bgoperator
-    organization_url: https://www.bgoperator.ru/
+    #organization: bgoperator
+    #organization_url: https://www.bgoperator.ru/
     title: 'Tourist operator'
     url: ''
 
