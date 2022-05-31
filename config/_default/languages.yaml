@@ -1,22 +1,47 @@
 # Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://wowchemy.com/docs/guide/language/
+#   Create a `[X]` block for each language you want, where X is the language ID.
+#   Refer to https://sourcethemes.com/academic/docs/language/
 
-# Default language
+# Configure the Russian version of the site.
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  title: Shcherbak M. R.
+  
+ru:
+  languageCode: ru-ru
+  contentDir: content/ru  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  title: Щербак М. Р.
+  menu:
+    main:
+      - name: Обо мне
+        url: '#about'
+        weight: 10
+      - name: Блог
+        url: '#posts'
+        weight: 20
+      - name: Проекты
+        url: '#projects'
+        weight: 30
+      - name: Публикации
+        url: '#featured'
+        weight: 50
+      - name: Контакты
+        url: '#contact'
+        weight: 60
+
+
+# Configure the English version of the site.
+
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+#[zh]
+#  languageCode = "zh-Hans"
+#  contentDir = "content/zh"
+#  title = "Chinese website title..."
+#  [zh.params]
+#    description = "Site description in Chinese..."
+#  [[zh.menu.main]]
+#    name = "Wo"
+#    url = "#about"
+#    weight = 1

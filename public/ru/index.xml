@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Щербак М. Р.</title>
+    <link>https://example.com/ru/</link>
+      <atom:link href="https://example.com/ru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Щербак М. Р.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Щербак М. Р.</title>
+      <link>https://example.com/ru/</link>
+    </image>
+    
+    <item>
+      <title>научные языки программирования</title>
+      <link>https://example.com/ru/post/language_speak/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/language_speak/</guid>
+      <description>&lt;h2 id=&#34;самые-популярные-языки-программирования&#34;&gt;Самые популярные языки программирования&lt;/h2&gt;
+&lt;p&gt;Язык программирования - это набор лексических, синтаксических и семантических правил, которые люди придумали для создания программ. Вы можете выучить язык до начального уровня за 6-10 месяцев, но если вы ошибетесь с выбором, язык может устареть, и вы потеряете время и деньги.&lt;/p&gt;
+&lt;p&gt;Чтобы отслеживать спрос на языки программирования, компании составляют специальные рейтинги. Преподаватель онлайн-школы цифрового творчества и программирования для детей &amp;ldquo;Кодабра&amp;rdquo; Николай Ведерников выбрал языки, занимающие высокие места в рейтингах TIOBE и IEEE. Первый рейтинг включает в себя языки, на которых написано наибольшее количество строк кода, для второго они используют немного больше критериев. Например, популярность на сайтах поиска работы, упоминания в сервисах для программистов и социальных сетях.&lt;/p&gt;
+&lt;h3 id=&#34;самые-популярные-языки-программирования-1&#34;&gt;Самые популярные языки программирования:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Питон&lt;/li&gt;
+&lt;li&gt;С&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;C++&lt;/li&gt;
+&lt;li&gt;С#&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;Р&lt;/li&gt;
+&lt;li&gt;Arduino&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;стоит-ли-учиться-программировать-на-python&#34;&gt;Стоит ли учиться программировать на Python&lt;/h2&gt;
+&lt;p&gt;Python - это логичный и относительно простой язык с минималистичным синтаксисом. У него есть небольшой набор основных правил, язык легко читается, и писать на нем нетрудно. Разработчики написали множество библиотек для Python, так что вы можете использовать готовые решения в своих проектах. Главным недостатком Python является его низкая скорость. Программы на нем будут работать в среднем медленнее, чем на других языках.&lt;/p&gt;
+&lt;p&gt;В октябре 2021 года Python стал самым популярным языком программирования, сместившись с первой строчки рейтингов Java и C.&lt;/p&gt;
+&lt;h2 id=&#34;стоит-ли-изучать-программирование-на-языке-си&#34;&gt;Стоит ли изучать программирование на языке Си&lt;/h2&gt;
+&lt;p&gt;C - один из старейших и самых популярных языков программирования. Он &amp;ldquo;легкий&amp;rdquo; и быстрый, поэтому используется там, где требуется высокая производительность. Например, для создания драйверов, операционных систем или программного обеспечения для микроконтроллеров. В то же время C сложно выучить — многое приходится писать с нуля. Если сравнивать языки программирования с автомобилями, то C - это гоночный автомобиль, неудобный на городских дорогах, но очень быстрый.&lt;/p&gt;
+&lt;p&gt;Где они его используют. С помощью C создаются драйверы, пишутся ядра операционной системы, а также пишутся библиотеки для Python и других языков.&lt;/p&gt;
+&lt;h2 id=&#34;стоит-ли-учиться-программировать-на-java&#34;&gt;Стоит ли учиться программировать на Java&lt;/h2&gt;
+&lt;p&gt;Java — это кроссплатформенный язык с большим количеством библиотек и большим сообществом разработчиков. Кроссплатформенность — это возможность написать программу один раз и сразу же использовать ее в нескольких операционных системах: Windows, Linux и macOS. Благодаря библиотекам Java он подходит практически для всего: работы с графикой, звуком, создания небольших игр. А в большом сообществе начинающий разработчик может легко найти готовые фрагменты кода для разных задач и ответы практически на любые вопросы.&lt;/p&gt;
+&lt;h2 id=&#34;стоит-ли-учиться-программировать-на-c&#34;&gt;Стоит ли учиться программировать на C++&lt;/h2&gt;
+&lt;p&gt;C++ — это кроссплатформенный язык семейства C с расширенными функциями.&lt;/p&gt;
+&lt;p&gt;Огромное количество программистов пишут на нем код, делятся библиотеками и шаблонами, отвечают на вопросы новичков.&lt;/p&gt;
+&lt;p&gt;Где они его используют. Чаще всего операционные системы, драйверы и утилиты создаются на C++. Они создают популярные настольные приложения серии Adobe и Office. Из-за высокой скорости и производительности C++ используется для разработки компьютерных игр. Например, на нем написан популярный движок Unreal Engine.&lt;/p&gt;
+&lt;h2 id=&#34;стоит-ли-учиться-программировать-на-c-1&#34;&gt;Стоит ли учиться программировать на C#&lt;/h2&gt;
+&lt;p&gt;C# (c-sharp) - это язык, первоначально изобретенный Microsoft для создания приложений для Windows. Это объектно-ориентированный язык — его сложнее выучить, но проще использовать, например, меньше писать один и тот же код. Используя C#, вы можете работать с платформой WPF, которая помогает создавать &amp;ldquo;красивые&amp;rdquo; оконные приложения. Например, последние версии MS Office.&lt;/p&gt;
+&lt;h2 id=&#34;php&#34;&gt;PHP&lt;/h2&gt;
+&lt;p&gt;PHP используется в веб-разработке для создания программ, которые выполняются на сервере и помогают обрабатывать клиентские запросы. PHP постепенно теряет популярность, потому что серверы могут быть созданы с использованием других языков. Но многие ранее созданные сайты все еще работают на PHP, например, ВКонтакте.&lt;/p&gt;
+&lt;h2 id=&#34;стоит-ли-учиться-программировать-на-r&#34;&gt;Стоит ли учиться программировать на R&lt;/h2&gt;
+&lt;p&gt;R - это язык для обработки данных, статистики и машинного обучения. R постоянно конкурирует с Python, он все чаще используется в научных исследованиях.&lt;/p&gt;
+&lt;h2 id=&#34;стоит-ли-учиться-программировать-на-arduino&#34;&gt;Стоит ли учиться программировать на Arduino&lt;/h2&gt;
+&lt;p&gt;Arduino - это упрощенный диалект C++, на котором написаны только программы для контроллеров Arduino. Но эти контроллеры используются практически везде — от устройств для автоматического полива до полноценных систем умного дома и различных роботов.&lt;/p&gt;
+&lt;p&gt;Arduino существует только в сочетании с контроллерами, поэтому его не всегда считают полноценным языком. Чтобы работать на нем, нужно купить специальную плату, подключить ее к компьютеру и с помощью специального программного обеспечения написать программу для контроллера. Но вы можете написать программу, поместить контроллер в нужное устройство и сразу же проверить, насколько хорошо он работает.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пример проекта</title>
+      <link>https://example.com/ru/talk/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0/</link>
+      <pubDate>Mon, 23 May 2022 13:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/talk/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Индивидуальный проект</title>
+      <link>https://example.com/ru/project/example/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/example/</guid>
+      <description>&lt;h2 id=&#34;цель-работы&#34;&gt;&lt;strong&gt;Цель работы&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Добавить информацию о себе на сайте (биография, аватарка, интресы, образование и два поста).&lt;/p&gt;
+&lt;h2 id=&#34;ход-работы&#34;&gt;&lt;strong&gt;Ход работы&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Изменили фотографию владельца сайта на свою.
+(Рис. [-@fig:001])&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-04%2017-29-44.png&#34; alt=&#34;Меняем аватарку&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:001 width=70%}&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Изменили краткое описание владельца сайта (Biography).&lt;/li&gt;
+&lt;li&gt;Добавили информацию об интересах (Interests).&lt;/li&gt;
+&lt;li&gt;Изменили информацию от образовании (Education).
+(Рис. [-@fig:002])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Открыли в домашнем каталоге папку work/blog/content/authors/admin/_index.md и внесли изменения, сохранили.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-05%2020-58-59.png&#34; alt=&#34;Редактируем информацию под себя&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:002 width=70%}&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Написали 2 поста:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;по прошедшей неделе&lt;/li&gt;
+&lt;li&gt;на тему управления версиями git
+(Рис .[-@fig:003] - Рис .[-@fig:007])&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В папке work/blog/content/post мы создали две папки: Last_week для поста по прошедшей неделе и Versioning для поста на тему &amp;ldquo;Управление версиями. Git&amp;rdquo;.
+Мы копируем файл md из папки getting-started и вставляем этот файл в наши две созданные папки.
+Затем редактируем в кадой папке этот файл в соответсвии теме поста.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-04%2017-30-06.png&#34; alt=&#34;Создание постов&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:003 width=70%}&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-04%2017-30-19.png&#34; alt=&#34;Добавили картинку к теме поста о прошедшей неделе&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:004 width=70%}&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-04%2017-30-58.png&#34; alt=&#34;Добавили картинку к теме поста об управлениях версиями git&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:005 width=70%}&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-05%2021-19-35.png&#34; alt=&#34;Редактирование текста поста о прошедшей неделе&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:006 width=70%}&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-05%2021-19-58.png&#34; alt=&#34;Редактирование текста поста об управлениях версиями&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:007 width=70%}&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;После внесённых и сохранённых изменений мы запускаем hugo в каталоге blog, переходим в папку public и вбиваем следующие команды: (Рис .[-@fig:008]).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;git add .&lt;/li&gt;
+&lt;li&gt;git commit -am &amp;ldquo;наш комментарий&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;git push origin main&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-05-04%20175117.png&#34; alt=&#34;Обновляем данные на сайте&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:008 width=70%}&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Проверяем обновление сайта. (Рис .[-@fig:009] - Рис .[-@fig:0010]).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-04%2017-58-05.png&#34; alt=&#34;Обновлённый сайт&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:009 width=70%}&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-04%2017-58-19.png&#34; alt=&#34;Добавились два поста&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:0010 width=70%}&lt;/p&gt;
+&lt;h2 id=&#34;вывод&#34;&gt;&lt;strong&gt;Вывод:&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Таким образом, я добавила информацию о себе на сайте (биографию, аватарку, интресы, образование и два поста).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Личный проект</title>
+      <link>https://example.com/ru/publication/example/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Слайды</title>
+      <link>https://example.com/ru/slides/example/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пятая прошедшая неделя</title>
+      <link>https://example.com/ru/post/last_week5/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/last_week5/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;На прошлой неделе я выполняла лабораторные работы по операционным системам. Ходила на занятия по технологии программирования. В субботу ходила на занятия по информационным технологиям и выполнила 6 лабораторных работ. Осталось только оформить отчёты. Всегда очень интересно и приятно, когда работа получается. В выходной день (воскресенье) я смотрела фильмы. Начала смотреть сериал. На прошлой неделе было последнее занятие по физической культуре и по английскому языку. Жду результаты.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Четвёртая прошедшая неделя</title>
+      <link>https://example.com/ru/post/last_week4/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/last_week4/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;На прошлой неделе я провел лабораторную работу по операционным системам, выполнил 4-й этап индивидуального проекта, прикрепил ссылки на научные и библиометрические ресурсы. Она также написала контрольную работу по технологии программирования. В субботу я выполнял лабораторную работу на компьютерном семинаре по информационным технологиям. В воскресенье я посвятил день себе, отдохнул морально и физически. Я гулял, наслаждался жизнью, природой, солнцем. Погода была чудесная! Весна радует и согревает.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/ru/post/markdown/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/markdown/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;Markdown - это облегченный язык разметки, предназначенный для указания форматирования в обычном тексте при максимальном сохранении удобочитаемости для пользователя и подходящий для машинного перевода на продвинутые языки публикации. Первоначально создан в 2004 году Джоном Грубером и Аароном Шварцем. Многие языковые идеи были заимствованы из существующих соглашений о разметке текста в электронных письмах.
+Реализации языка Markdown преобразуют текст Markdown в допустимый, правильно построенный XHTML и заменяют левые угловые скобки (&amp;quot;&amp;lt;&amp;quot;) и амперсанды (&amp;quot;&amp;amp;&amp;quot;) соответствующими кодами объектов. Первой реализацией Markdown была реализация на Perl, написанная Грубером, но через некоторое время появилось много реализаций от сторонних разработчиков (см. Ниже). Реализация Perl распространяется под лицензией типа BSD. Реализации Markdown на различных языках программирования включены (или доступны в виде плагина) во многие системы управления контентом.
+Вы можете использовать любой текстовый редактор для написания Markdown, но мы рекомендуем использовать Visual Studio Code с расширением Docs Authoring Pack. Расширение Doc Authoring Pack содержит инструменты редактирования и функции предварительного просмотра, которые позволяют вам увидеть, как будут выглядеть статьи на сайте документации.
+Оповещения - это специальное расширение Markdown, которое используется для создания блоков цитирования, отображаемых на сайте документации с использованием цветов и значков, указывающих на важность контента.&lt;/p&gt;
+&lt;p&gt;Избегайте использования &amp;ldquo;Примечание&amp;rdquo;, &amp;ldquo;Совет&amp;rdquo;, &amp;ldquo;Важно!&amp;rdquo;. Читатели часто пропускают их. Рекомендуется размещать их информацию непосредственно в тексте статьи.&lt;/p&gt;
+&lt;p&gt;Если вам нужно использовать оповещения, ограничьтесь одним или двумя на статью. Несколько заметок никогда не должны находиться в статье рядом друг с другом.
+Если в тексте файла используются угловые скобки (например, для обозначения заполнителя), их необходимо закодировать вручную. В противном случае разметка Markdown рассматривает их как HTML-теги.&lt;/p&gt;
+&lt;p&gt;Угловые скобки не обязательно экранировать в тексте, отформатированном как встроенный код, или в блоках кода.
+Хотя Markdown поддерживает встроенный HTML-код, HTML не рекомендуется использовать для публикации документации на сайте. Любой код, за исключением ограниченного списка значений, приведет к появлению ошибок и предупреждений во время сборки.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вторая прошедшая неделя</title>
+      <link>https://example.com/ru/post/last_week2/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/last_week2/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;На прошлой неделе отмечался серьезный праздник - 9 мая. Я сопровождал бессмертный полк в качестве волонтера. Этот день был очень напряженным и ответственным. Погода сильно менялась в течение дня, то дождь, то град, то солнце с облаками. Однако это не помешало праздничному настроению. На той неделе я также выполнял лабораторную работу по операционным системам. Это было нелегко. Неделя в целом была напряженной, но продуктивной. Я со всем разобрался. Вечером 9 мая я отправился на фейерверк на Поклонную гору. Там было здорово. Там было много людей. Однако это не повредило. Фейерверк был долгим, ярким и впечатляющим. В тот вечер я также познакомился с новыми людьми. Они были очень радостными и настойчивыми. После фейерверка я пошел домой пешком, чтобы насладиться ночной Москвой. Москва прекрасна! Я наслаждался жизнью.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Третья прошедшая неделя</title>
+      <link>https://example.com/ru/post/last_week3/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/last_week3/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;На прошлой неделе я выполнял лабораторную работу по операционным системам. Она также провела 3-й этап индивидуального проекта. Разместила информацию о своих достижениях, навыках и опыте. Я написал два поста. В субботу я ходил на занятия по информационным технологиям. Также вечером я посетил выставку ГЭС-2. Я получил оттуда много красивых фотографий. Там есть очень красивая березовая роща. В воскресенье я выполнял лабораторную работу по операционным системам номер 9.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оформление отчёта</title>
+      <link>https://example.com/ru/post/otchet/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/otchet/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;Структурными элементами отчета являются:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;титульный лист;&lt;/li&gt;
+&lt;li&gt;список исполнителей;&lt;/li&gt;
+&lt;li&gt;отчет;&lt;/li&gt;
+&lt;li&gt;содержание;&lt;/li&gt;
+&lt;li&gt;определения;&lt;/li&gt;
+&lt;li&gt;обозначения и сокращения;&lt;/li&gt;
+&lt;li&gt;введение;&lt;/li&gt;
+&lt;li&gt;основная часть;&lt;/li&gt;
+&lt;li&gt;заключение;&lt;/li&gt;
+&lt;li&gt;список использованных источников;&lt;/li&gt;
+&lt;li&gt;приложения&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Дизайн документа
+Страницы текста отчета, а также иллюстрации и таблицы, включенные в отчет, должны соответствовать формату А4 в соответствии с ГОСТ 9327. Допускается использование формата А3 при наличии большого количества таблиц и иллюстраций этого формата.&lt;/p&gt;
+&lt;p&gt;Отчет должен быть выполнен на одной стороне листа белой бумаги формата А4 через полтора интервала. Цвет шрифта должен быть черным, высота букв, цифр и других знаков должна быть не менее 1,8 мм (размер не менее 12). Жирный шрифт не используется.&lt;/p&gt;
+&lt;p&gt;Текст отчета должен быть напечатан с соблюдением следующих размеров полей: правое - не менее 10 мм, верхнее и нижнее - не менее 20 мм, левое - не менее 30 мм.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Прошедшая неделя</title>
+      <link>https://example.com/ru/post/last_week/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/last_week/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;На прошлой неделе я делал лабораторную работу по операционным системам и информационным технологиям. Это было нелегко, но я все выполнил в срок. Это довольно интересно и познавательно. Вся моя неделя была занята учебой. На этой неделе я создал шаблон для личного сайта! На самом деле это очень круто. Я занимался физкультурой и преподавал английский язык. Я также ходил на волонтерский тренинг 9 мая.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Путешествие</title>
+      <link>https://example.com/ru/post/travel/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/travel/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;3 года назад я ездила с родными людьми отдыхать в Таиланд. В город Паттайя. Там очень красиво и жарко. Очень душно. Местные, разумеется, привыкли к такому климату и такой погоде, но нам было некомфортно. Однако, на удивление, в этой стране немало русских людей живёт. Мы отдыхали в отеле и наш номер находился на 27 этаже. На 30 этаже был бассейн с открытым видом на город. Нереально красивые виды. Мы почти не выходили из отеля, потому что было жарко. В отеле было прохладно. Мы все обгорели на второй день отдыха. Были волдыри на плечах, носу, груди. Ощущения были не очень. Нужно обязательно пользоваться солнцезащитными кремами, а мы пренебрегали этим. Моя тётя даже получила солнечный удар и пролежала с температурой около трёх дней, но за ней ухаживал персонал, и она быстро встала на ноги. Также мы ездили на экскурсии. Самая запоминающаяся - поездка в Камбоджу. Посещение храмов в джунглях. Катание на слонах. Водопады. Деревни на воде. Было Очень интересно. Всем рекомендую посетить такую замечательную страну как Таиланд!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Управление версиями Git</title>
+      <link>https://example.com/ru/post/versioning/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/versioning/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;p&gt;Системы контроля версий (Version Control System, VCS) используются при работе с несколькими
+людьми в рамках проекта.
+Обычное главное дерево проекта хранится в локальном или удаленном репозитории, доступ к которому настроен для участников проекта.При
+внесении изменений в содержимое проекта система контроля версий
+позволяет исправлять их, объединять изменения, внесенные разными участниками проекта,
+при необходимости выполнять откат к любой более ранней версии проекта.
+В классических системах контроля версий используется централизованная модель,
+предполагающая наличие единого хранилища для хранения файлов.
+Большинство функций контроля версий выполняются специальным сервером.
+Участник проекта (пользователь)
+получает нужную ему версию файлов перед началом работы с помощью определенных команд.После внесения изменений пользователь
+помещает новую версию в репозиторий. В то же время предыдущие версии не удаляются
+из центрального хранилища, и вы можете вернуться к ним в любое время.Сервер может
+сохранять полную версию измененных файлов и производить так называемое
+сжатие данных - сохранять только изменения между последовательными версиями, что
+уменьшает объем хранимых данных.
+Системы контроля версий поддерживают возможность отслеживания и разрешения
+конфликтов, которые могут возникнуть, когда несколько человек работают над одним
+файлом.Вы можете объединить (объединить) изменения, внесенные разными участниками (
+автоматически или вручную), вручную выбрать нужную версию, полностью отменить изменения
+или заблокировать файлы для изменения. В зависимости от настроек блокировка не
+позволяет другим пользователям получить рабочую копию или предотвращает изменение
+рабочей копии файла с помощью файловой системы операционной системы,
+предоставляя таким образом привилегированный доступ только одному пользователю, работающему с файлом.
+Системы контроля версий также могут предоставлять дополнительные, более гибкие
+функциональные возможности.Например, они могут поддерживать работу с несколькими
+версиями одного файла, сохраняя общую историю изменений вплоть до ветвления
+версий и свои собственные истории изменений каждой ветви.Кроме того,
+обычно доступна информация о том, кто из участников, когда и какие изменения были внесены.Обычно
+такого рода информация хранится в журнале изменений, доступ к которому может быть ограничен.
+В отличие от классических, в распределенных системах управления версиями центральное
+хранилище не является обязательным.
+Среди классических венчурных капиталистов наиболее известны CV, Subversion, а среди распределенных&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Git, Bazaar, Mercurial. Принципы их работы схожи, отличаются они
+в основном синтаксисом команд, используемых в работе.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Добро пожаловать в Wowchemy, конструктор веб-сайтов для Hugo</title>
+      <link>https://example.com/ru/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Конструктор веб-сайтов Wowchemy для Hugo, наряду с его начальными шаблонами, предназначен для профессиональных создателей, преподавателей и команд / организаций, хотя его можно использовать для создания любого вида сайтов.&lt;/li&gt;
+&lt;li&gt;Шаблон может быть изменен и настроен в соответствии с вашими потребностями. Это хорошая платформа для тех, кто хочет взять под контроль свои данные и онлайн-идентификацию, имея при этом удобство для начала с ** решения без кода (запись в Markdown и настройка с помощью параметров YAML) ** и гибкость для последующего добавления еще более глубокой персонализации с помощью HTML и CSS**&lt;/li&gt;
+&lt;li&gt;Вы можете работать со всеми вашими любимыми инструментами и приложениями с помощью сотен плагинов и интеграций для ускорения ваших рабочих процессов, взаимодействия с вашими читателями и многого другого.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/ru/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

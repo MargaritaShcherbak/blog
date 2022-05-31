@@ -1,22 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Shcherbak M. R.</title>
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <description>Shcherbak M. R.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
+      <title>Shcherbak M. R.</title>
       <link>https://example.com/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <title>scientific programming languages</title>
+      <link>https://example.com/post/language_speak/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/language_speak/</guid>
+      <description>&lt;h2 id=&#34;the-most-popular-programming-languages&#34;&gt;The most popular programming languages&lt;/h2&gt;
+&lt;p&gt;A programming language is a set of lexical, syntactic, and semantic rules that people have come up with to create programs. You can learn a language up to the entry level in 6-10 months, but if you make a mistake with the choice, the language may become outdated, and you will lose time and money.&lt;/p&gt;
+&lt;p&gt;To track the demand for programming languages, companies make special ratings. The teacher of the online school of digital creativity and programming for children &amp;ldquo;Kodabra&amp;rdquo; Nikolay Vedernikov chose languages that occupy high places in the TIOBE and IEEE ratings. The first rating includes the languages in which the most lines of code are written, for the second they use a little more criteria. For example, popularity on job search sites, mentions in services for programmers and social networks.&lt;/p&gt;
+&lt;h3 id=&#34;the-most-popular-programming-languages-1&#34;&gt;The most popular programming languages:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;C&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;C++&lt;/li&gt;
+&lt;li&gt;C#&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;li&gt;Arduino&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;is-it-worth-learning-to-program-in-python&#34;&gt;Is it worth learning to program in Python&lt;/h2&gt;
+&lt;p&gt;Python is a logical and relatively simple language with a minimalistic syntax. He has a small set of basic rules, the language is easy to read and it is not difficult to write in it. Developers have written a lot of libraries for Python, so you can use ready-made solutions in your projects. The main disadvantage of Python is its low speed. Programs on it will run slower on average than in other languages.&lt;/p&gt;
+&lt;p&gt;In October 2021, Python became the most popular programming language, shifting from the first line of the ratings of Java and C.&lt;/p&gt;
+&lt;h2 id=&#34;is-it-worth-learning-c-programming&#34;&gt;Is it worth learning C programming&lt;/h2&gt;
+&lt;p&gt;C is one of the oldest and most popular programming languages. It is &amp;ldquo;light&amp;rdquo; and fast, so it is used where high performance is needed. For example, to create drivers, operating systems or software for microcontrollers. At the same time, C is difficult to learn — you have to write a lot from scratch. If we compare programming languages with cars, then C is a racing car, inconvenient on city roads, but very fast.&lt;/p&gt;
+&lt;p&gt;Where they use it. With the help of C, drivers are created, operating system kernels are written, and libraries for Python and other languages are written.&lt;/p&gt;
+&lt;h2 id=&#34;is-it-worth-learning-to-program-in-java&#34;&gt;Is it worth learning to program in Java&lt;/h2&gt;
+&lt;p&gt;Java is a cross—platform language with a large number of libraries and a large community of developers. Cross—platform is the ability to write a program once and immediately use it on several operating systems: Windows, Linux and macOS. Thanks to Java libraries, it is suitable for almost everything: working with graphics, sound, creating small games. And in a large community, a novice developer can easily find ready-made pieces of code for different tasks and answers to almost any questions.&lt;/p&gt;
+&lt;h2 id=&#34;is-it-worth-learning-to-program-in-c&#34;&gt;Is it worth learning to program in C++&lt;/h2&gt;
+&lt;p&gt;C++ is a cross—platform language of the C family with advanced functions.&lt;/p&gt;
+&lt;p&gt;A huge number of programmers write code on it, share libraries and templates, answer questions from beginners.&lt;/p&gt;
+&lt;p&gt;Where they use it. Most often, operating systems, drivers and utilities are created in C++. They make popular desktop applications of the Adobe and Office series. Because of the high speed and performance, C++ is used to develop computer games. For example, the popular Unreal Engine is written on it.&lt;/p&gt;
+&lt;h2 id=&#34;is-it-worth-learning-to-program-in-c-1&#34;&gt;Is it worth learning to program in C#&lt;/h2&gt;
+&lt;p&gt;C# (c-sharp) is a language originally invented by Microsoft to create applications for Windows. It&amp;rsquo;s an object-oriented language — it&amp;rsquo;s harder to learn, but easier to use, for example, less writing the same code. Using C#, you can work with the WPF platform, which helps to create &amp;ldquo;beautiful&amp;rdquo; window applications. For example, the latest versions of MS Office.&lt;/p&gt;
+&lt;h2 id=&#34;php&#34;&gt;PHP&lt;/h2&gt;
+&lt;p&gt;PHP is used in web development to create programs that run on the server and help process client requests. PHP is gradually losing popularity because servers can be created using other languages. But many previously created sites still work in PHP, for example, VKontakte.&lt;/p&gt;
+&lt;h2 id=&#34;is-it-worth-learning-to-program-in-r&#34;&gt;Is it worth learning to program in R&lt;/h2&gt;
+&lt;p&gt;R is a language for data processing, statistics, and machine learning. R is constantly competing with Python, it is more often used in scientific research.&lt;/p&gt;
+&lt;h2 id=&#34;is-it-worth-learning-to-program-on-arduino&#34;&gt;Is it worth learning to program on Arduino&lt;/h2&gt;
+&lt;p&gt;Arduino is a simplified dialect of C++, in which only programs for Arduino controllers are written. But these controllers are used almost everywhere — from devices for automatic watering to full-fledged smart home systems and various robots.&lt;/p&gt;
+&lt;p&gt;Arduino exists only in conjunction with controllers, so it is not always considered a full-fledged language. To work on it, you need to buy a special board, connect it to a computer and use special software to write a program for the controller. But you can write a program, put the controller in the right device and immediately check how well it works.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://example.com/talk/example-project/</link>
+      <pubDate>Mon, 23 May 2022 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/example-project/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -33,98 +77,18 @@
     </item>
     
     <item>
-      <title>Last week two</title>
-      <link>https://example.com/post/last_week2/</link>
-      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/last_week2/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Last week, a serious holiday was celebrated - May 9. I accompanied the immortal regiment as a volunteer. This day was very busy and responsible. The weather changed a lot during the day, then rain, then hail, then the sun with clouds. However, this did not prevent the festive mood. That week I also did lab work on operating systems. It wasn&amp;rsquo;t easy. The week as a whole was busy, but productive. I&amp;rsquo;ve handled everything. On the evening of May 9, I went to the fireworks on Poklonnaya Gora. It was great there. There were a lot of people. However, it didn&amp;rsquo;t hurt. The fireworks were long, bright and impressive. I also met new people that evening. They were very joyful and persistent. After the fireworks, I went home on foot to enjoy Moscow at night. Moscow is beautiful! I enjoyed life.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Markdown</title>
-      <link>https://example.com/post/markdown/</link>
-      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/markdown/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Markdown is a lightweight markup language designed to indicate formatting in plain text while maintaining human readability as much as possible, and suitable for machine translation into advanced publishing languages. Originally created in 2004 by John Gruber and Aaron Schwartz. Many language ideas have been borrowed from existing text markup conventions in emails.
-Markdown language implementations convert Markdown text into valid, correctly constructed XHTML and replace left angle brackets (&amp;quot;&amp;lt;&amp;quot;) and ampersands (&amp;quot;&amp;amp;&amp;quot;) with the corresponding object codes. The first implementation of Markdown was a Perl implementation written by Gruber, but after a while many implementations from third-party developers appeared (see below). The Perl implementation is distributed under a BSD type license. Markdown implementations in various programming languages are included (or available as a plugin) in many content management systems.
-You can use any text editor to write Markdown, but we recommend Visual Studio Code with the Docs Authoring Pack extension. The Doc Authoring Pack extension contains editing tools and preview functions that allow you to see how the articles on the Documentation site will look like.
-Alerts are a special Markdown extension that is used to create citation blocks displayed on the documentation site using colors and icons indicating the importance of the content.&lt;/p&gt;
-&lt;p&gt;Avoid using the &amp;ldquo;Note&amp;rdquo;, &amp;ldquo;Advice&amp;rdquo;, &amp;ldquo;Important!&amp;rdquo;. Readers often miss them. It is recommended to place their information directly in the text of the article.&lt;/p&gt;
-&lt;p&gt;If you need to use alerts, limit yourself to one or two per article. Several notes should never be in an article next to each other.
-If angle brackets are used in the text of the file (for example, to indicate a placeholder), they need to be encoded manually. Otherwise, Markdown markup considers them HTML tags.&lt;/p&gt;
-&lt;p&gt;Angle brackets do not have to be escaped in text formatted as embedded code or in code blocks.
-Although Markdown supports embedded HTML code, HTML is not recommended for publishing Documentation on the site. Any code, except for a limited list of values, will cause errors and warnings to appear during assembly.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Git Version Control</title>
-      <link>https://example.com/post/versioning/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/versioning/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Version control systems (Version Control System, VCS) are used when working with several
-people under a project.The
-usual main tree of the project is stored in a local or remote repository to which access is configured for project participants.When
-making changes to the content of the project, the version control system allows
-you to fix them, combine changes made by different project participants,
-roll back to any earlier version of the project, if required.
-In classical version control systems, a centralized model is used,
-assuming a single repository for storing files.
-Most version control functions are performed by a special server.
-The project participant (user)
-receives the version of files he needs before starting work through certain commands.After making changes, the user
-places the new version in the repository. At the same time, previous versions are not deleted
-from the central repository and you can return to them at any time.The server can
-save the full version of the changed files, and produce the so-called data-
-compression—save only changes between successive versions, which
-reduces the amount of data stored.
-Version control systems support the ability to track and resolve
-conflicts that may arise when several people work on a single
-file.You can merge (merge) the changes made by different participants (
-automatically or manually), manually select the desired version, cancel the changes altogether
-or lock the files for modification. Depending on the settings, the lock does not
-allow other users to get a working copy or prevents the change
-a working copy of the file by means of the OS file system, thus
-providing privileged access to only one user working with the file.
-Version control systems can also provide additional, more flexible
-functionality.For example, they can support working with multiple
-versions of a single file, keeping a general history of changes up to the point of branching
-versions and their own change histories of each branch.Moreover,
-information is usually available about which of the participants, when and what changes were made.The usual
-this kind of information is stored in the change log, access to which can be restricted.
-Unlike the classical ones, in distributed version control systems, a central
-repository is not mandatory.
-Among the classic Venture capitalists, the most famous are CV, Subversion, and among the distributed
-ones - Git, Bazaar, Mercurial. The principles of their work are similar, they differ mainly
-in the syntax of the commands used in the work.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Last week</title>
-      <link>https://example.com/post/last_week/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/last_week/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Last week I did lab work on operating systems and information technology. It was not easy, but I completed everything on time. It&amp;rsquo;s quite interesting and informative. My whole week was busy studying. This week I created a template for a personal website! It&amp;rsquo;s very cool actually. I was engaged in physical culture and taught English. I also went to volunteer training on May 9th.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+      <title>Individual project</title>
+      <link>https://example.com/project/example/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/</guid>
+      <description>&lt;h2 id=&#34;the-purpose-of-the-work&#34;&gt;&lt;strong&gt;The purpose of the work&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Add information about yourself on the site (biography, avatar, interests, education and two posts).&lt;/p&gt;
+&lt;h2 id=&#34;progress-of-work&#34;&gt;&lt;strong&gt;Progress of work&lt;/strong&gt;&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;li&gt;Changed the photo of the site owner to their own.
+(Fig. [-@fig:001])&lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;
 
 
 
@@ -140,63 +104,261 @@ in the syntax of the commands used in the work.&lt;/p&gt;
 
 
 
-
-&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+&lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-04%2017-29-44.png&#34; alt=&#34;Changing the avatar&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:001 width=70%}&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;
 &lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Changed the short description of the site owner (Biography).&lt;/li&gt;
+&lt;li&gt;Added information about Interests.&lt;/li&gt;
+&lt;li&gt;Changed the information from Education.
+(Fig. [-@fig:002])&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We opened the work/blog/content/authors/admin/_index.md folder in the home directory and made changes, saved them.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-05%2020-58-59.png&#34; alt=&#34;Editing information for ourselves&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:002 width=70%}&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Wrote 2 posts:&lt;/li&gt;
+&lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;li&gt;for the past week&lt;/li&gt;
+&lt;li&gt;on the topic of git version control
+(Fig .[-@fig:003] - Fig.[-@fig:007])&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;p&gt;In the work/blog/content/post folder, we created two folders: Last_week for a post on the past week and Versioning for a post on the topic &amp;ldquo;Version Control. Git&amp;rdquo;.
+We copy the md file from the getting-started folder and paste this file into our two created folders.
+Then we edit this file in the same folder in accordance with the topic of the post.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-04%2017-30-06.png&#34; alt=&#34;Creating posts&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:003 width=70%}&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-04%2017-30-19.png&#34; alt=&#34;Added a picture to the topic of the post about the past week&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:004 width=70%}&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-04%2017-30-58.png&#34; alt=&#34;Added a picture to the topic of the post about git version control&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:005 width=70%}&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-05%2021-19-35.png&#34; alt=&#34;Editing the text of the post about the past week&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:006 width=70%}&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-05%2021-19-58.png&#34; alt=&#34;Edit the text of the post about version control&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:007 width=70%}&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;After the changes have been made and saved, we launch hugo in the blog directory, go to the public folder and type in the following commands: (Fig.[-@fig:008]).&lt;/li&gt;
+&lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;li&gt;git add .&lt;/li&gt;
+&lt;li&gt;git commit -am &amp;ldquo;our comment&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;git push origin main&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-05-04%20175117.png&#34; alt=&#34;Updating the data on сайте&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:008 width=70%}&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Check the site update. (Fig .[-@fig:009] - Fig.[-@fig:0010]).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-04%2017-58-05.png&#34; alt=&#34;Updated website&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:009 width=70%}&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-05-04%2017-58-19.png&#34; alt=&#34;Two posts added&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:0010 width=70%}&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;&lt;strong&gt;Conclusion:&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Thus, I added information about myself on the site (biography, avatar, interests, education and two posts).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personal project</title>
+      <link>https://example.com/publication/example/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides</title>
       <link>https://example.com/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
@@ -319,34 +481,230 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Last week four</title>
+      <link>https://example.com/post/last_week4/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last_week4/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Last week I did laboratory work on operating systems, did an individual project stage 4, attached links to scientific and bibliometric resources. She also wrote a test paper on programming technology. On Saturday, I did laboratory work on a computer workshop on information technology. On Sunday, I devoted a day to myself, rested mentally and physically. I walked, enjoyed life, nature, the sun. The weather was wonderful! Spring pleases and warms.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>The fifth past week</title>
+      <link>https://example.com/post/last_week5/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last_week5/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Last week I was doing lab work on operating systems. I went to classes in programming technology. On Saturday I went to information technology classes and completed 6 laboratory works. It remains only to issue reports. It is always very interesting and pleasant when the work turns out. On a day off (Sunday) I&amp;rsquo;ve been watching movies. I started watching the series. Last week was the last lesson in physical education and English. I&amp;rsquo;m waiting for the results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week three</title>
+      <link>https://example.com/post/last_week3/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last_week3/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Last week I was doing lab work on operating systems. She also conducted the 3rd stage of the individual project. Posted information about her achievements, skills and experience. I wrote two posts. On Saturday, I went to information technology classes. Also in the evening I visited the HPP-2 exhibition. I got a lot of beautiful photos from there. There is a very beautiful birch grove there. On Sunday, I was doing laboratory work on operating systems number 9.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week two</title>
+      <link>https://example.com/post/last_week2/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last_week2/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Last week, a serious holiday was celebrated - May 9. I accompanied the immortal regiment as a volunteer. This day was very busy and responsible. The weather changed a lot during the day, then rain, then hail, then the sun with clouds. However, this did not prevent the festive mood. That week I also did lab work on operating systems. It wasn&amp;rsquo;t easy. The week as a whole was busy, but productive. I&amp;rsquo;ve handled everything. On the evening of May 9, I went to the fireworks on Poklonnaya Gora. It was great there. There were a lot of people. However, it didn&amp;rsquo;t hurt. The fireworks were long, bright and impressive. I also met new people that evening. They were very joyful and persistent. After the fireworks, I went home on foot to enjoy Moscow at night. Moscow is beautiful! I enjoyed life.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Markdown is a lightweight markup language designed to indicate formatting in plain text while maintaining human readability as much as possible, and suitable for machine translation into advanced publishing languages. Originally created in 2004 by John Gruber and Aaron Schwartz. Many language ideas have been borrowed from existing text markup conventions in emails.
+Markdown language implementations convert Markdown text into valid, correctly constructed XHTML and replace left angle brackets (&amp;quot;&amp;lt;&amp;quot;) and ampersands (&amp;quot;&amp;amp;&amp;quot;) with the corresponding object codes. The first implementation of Markdown was a Perl implementation written by Gruber, but after a while many implementations from third-party developers appeared (see below). The Perl implementation is distributed under a BSD type license. Markdown implementations in various programming languages are included (or available as a plugin) in many content management systems.
+You can use any text editor to write Markdown, but we recommend Visual Studio Code with the Docs Authoring Pack extension. The Doc Authoring Pack extension contains editing tools and preview functions that allow you to see how the articles on the Documentation site will look like.
+Alerts are a special Markdown extension that is used to create citation blocks displayed on the documentation site using colors and icons indicating the importance of the content.&lt;/p&gt;
+&lt;p&gt;Avoid using the &amp;ldquo;Note&amp;rdquo;, &amp;ldquo;Advice&amp;rdquo;, &amp;ldquo;Important!&amp;rdquo;. Readers often miss them. It is recommended to place their information directly in the text of the article.&lt;/p&gt;
+&lt;p&gt;If you need to use alerts, limit yourself to one or two per article. Several notes should never be in an article next to each other.
+If angle brackets are used in the text of the file (for example, to indicate a placeholder), they need to be encoded manually. Otherwise, Markdown markup considers them HTML tags.&lt;/p&gt;
+&lt;p&gt;Angle brackets do not have to be escaped in text formatted as embedded code or in code blocks.
+Although Markdown supports embedded HTML code, HTML is not recommended for publishing Documentation on the site. Any code, except for a limited list of values, will cause errors and warnings to appear during assembly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design of the report</title>
+      <link>https://example.com/post/otchet/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/otchet/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The structural elements of the report are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;title page;&lt;/li&gt;
+&lt;li&gt;list of performers;&lt;/li&gt;
+&lt;li&gt;report;&lt;/li&gt;
+&lt;li&gt;content;&lt;/li&gt;
+&lt;li&gt;definitions;&lt;/li&gt;
+&lt;li&gt;designations and abbreviations;&lt;/li&gt;
+&lt;li&gt;introduction;&lt;/li&gt;
+&lt;li&gt;the main part;&lt;/li&gt;
+&lt;li&gt;conclusion;&lt;/li&gt;
+&lt;li&gt;list of sources used;&lt;/li&gt;
+&lt;li&gt;applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Document design
+The pages of the report text and the illustrations and tables included in the report must comply with A4 format according to GOST 9327. It is allowed to use the A3 format if there are a large number of tables and illustrations of this format.&lt;/p&gt;
+&lt;p&gt;The report should be executed on one side of a sheet of A4 white paper at one and a half intervals. The font color must be black, the height of letters, numbers and other signs must be at least 1.8 mm (size at least 12). Bold font is not used.&lt;/p&gt;
+&lt;p&gt;The text of the report should be printed, observing the following field sizes: right - at least 10 mm, upper and lower - at least 20 mm, left - at least 30 mm.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git Version Control</title>
+      <link>https://example.com/post/versioning/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/versioning/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Version control systems (Version Control System, VCS) are used when working with several
+people under a project.The
+usual main tree of the project is stored in a local or remote repository to which access is configured for project participants.When
+making changes to the content of the project, the version control system allows
+you to fix them, combine changes made by different project participants,
+roll back to any earlier version of the project, if required.
+In classical version control systems, a centralized model is used,
+assuming a single repository for storing files.
+Most version control functions are performed by a special server.
+The project participant (user)
+receives the version of files he needs before starting work through certain commands.After making changes, the user
+places the new version in the repository. At the same time, previous versions are not deleted
+from the central repository and you can return to them at any time.The server can
+save the full version of the changed files, and produce the so-called data-
+compression—save only changes between successive versions, which
+reduces the amount of data stored.
+Version control systems support the ability to track and resolve
+conflicts that may arise when several people work on a single
+file.You can merge (merge) the changes made by different participants (
+automatically or manually), manually select the desired version, cancel the changes altogether
+or lock the files for modification. Depending on the settings, the lock does not
+allow other users to get a working copy or prevents the change
+a working copy of the file by means of the OS file system, thus
+providing privileged access to only one user working with the file.
+Version control systems can also provide additional, more flexible
+functionality.For example, they can support working with multiple
+versions of a single file, keeping a general history of changes up to the point of branching
+versions and their own change histories of each branch.Moreover,
+information is usually available about which of the participants, when and what changes were made.The usual
+this kind of information is stored in the change log, access to which can be restricted.
+Unlike the classical ones, in distributed version control systems, a central
+repository is not mandatory.
+Among the classic Venture capitalists, the most famous are CV, Subversion, and among the distributed
+ones - Git, Bazaar, Mercurial. The principles of their work are similar, they differ mainly
+in the syntax of the commands used in the work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week</title>
+      <link>https://example.com/post/last_week/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last_week/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Last week I did lab work on operating systems and information technology. It was not easy, but I completed everything on time. It&amp;rsquo;s quite interesting and informative. My whole week was busy studying. This week I created a template for a personal website! It&amp;rsquo;s very cool actually. I was engaged in physical culture and taught English. I also went to volunteer training on May 9th.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://example.com/post/travel/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/travel/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;3 years ago, I went with my family to rest in Thailand. To the city of Pattaya. It&amp;rsquo;s very nice and hot there. Very stuffy. The locals, of course, got used to such a climate and such weather, but it was uncomfortable for us. However, surprisingly, there are a lot of Russian people living in this country. We were vacationing at the hotel and our room was on the 27th floor. On the 30th floor there was a swimming pool with an open view of the city. Unrealistically beautiful views. We hardly left the hotel because it was hot. It was cool in the hotel. We were all burned on the second day of rest. There were blisters on the shoulders, nose, chest. The sensations were not very good. It is necessary to use sunscreens, and we neglected this. My aunt even got a sunstroke and lay with a fever for about three days, but she was cared for by the staff, and she quickly got back on her feet. We also went on excursions. The most memorable is a trip to Cambodia. Visiting temples in the jungle. Elephant riding. Waterfalls. Villages on the water. It was very interesting. I recommend everyone to visit such a wonderful country as Thailand!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://example.com/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
     </item>
     
