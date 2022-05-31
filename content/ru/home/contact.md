@@ -46,7 +46,7 @@ content:
     - icon: github
       icon_pack: fab
       name: Следуй за мной
-      url: https://github.com/MargaritaShcherbak
+      link: 'https://github.com/MargaritaShcherbak'
     - icon: video
       icon_pack: fas
       name: Посмотри на меня
